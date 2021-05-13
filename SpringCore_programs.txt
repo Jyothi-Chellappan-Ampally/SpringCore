@@ -1,0 +1,16 @@
+1)Create a spring application Display Employee Details.
+2)Create  a spring application to inject date using CustomDateEditor?
+3)Create a spring application to read property file using xml based configuration file
+4)Create a spring application to read property file using java based configuration file
+5)Create a spring application to invoke spring bean init and destroy methods
+6)Create a sample spring application for a Bank identifying appropriate beans using constructor injection.(XML Configuration)
+Minimum 5 beans.
+7)Create a sample spring application for a Bank identifying appropriate beans.(Anotation/java Configuration)
+Minimum 5 beans.  
+8)Create a Sample Spring applicatin for a Pharmacy identifying appopraite beans using SetterInjection.
+Minimum 5 beans.
+9)Create a Sample Spring applicatin for a Bank identifying appopraite beans using autowiring (byType,byName)
+Minimum 5 beans.
+10)Create a spring application to insert Student details into DataBase.
+11)Create a spring application to insert Student details into DataBase using JDBCTemplate.
+12)Create a spring application to insert Student details into DataBase using JDBCTemplate also create a log using SLF4J.
